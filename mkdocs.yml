@@ -1,0 +1,8 @@
+site_name: "test-ws"
+site_description: "test ws"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
